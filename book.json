@@ -1,0 +1,11 @@
+{
+    "title": "机器人软件平台编译工程（待定）",
+    "description": "从零开始搭建一个智能机器人软件开发平台",
+    "author": "徐振海，杨帆",
+    "plugins": ["replace", "hints", "term", "include-codeblock", "ace"],
+    "pluginsConfig": {
+         "include-codeblock": {
+             "fixlang": true
+         }
+    }
+}
